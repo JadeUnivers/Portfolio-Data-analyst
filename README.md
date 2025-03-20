@@ -4,15 +4,15 @@ Ce repositorie contient mes projets réalisés dans le cadre de ma formation de 
 ## &#128295; Les outils que j'ai utilisés
 |                   |Projet 10 |Projet 9 |Projet 8 |Projet 7 |Projet 6 |Projet 5 |Projet 4 |Projet 3 |
 |:-----------------:|:--------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|Jupyter<br>Notebook|          |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Python             |          |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Numpy              |          |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Pandas             |          |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Matplotlib         |          |&#10003; |         |         |&#10003; |&#10003; |&#10003; |         |
-|Seaborn            |          |&#10003; |         |         |         |         |         |         |
-|ScyPy              |          |&#10003; |         |         |&#10003; |         |         |         |
-|scikit-learn       |          |&#10003; |         |         |         |         |         |         |
-|statsmodels        |          |         |         |         |         |         |         |         |
+|Jupyter<br>Notebook|&#10003;  |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Python             |&#10003;  |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Numpy              |&#10003;  |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Pandas             |&#10003;  |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Matplotlib         |&#10003;  |&#10003; |         |         |&#10003; |&#10003; |&#10003; |         |
+|Seaborn            |&#10003;  |&#10003; |         |         |         |         |         |         |
+|ScyPy              |&#10003;  |&#10003; |         |         |&#10003; |         |         |         |
+|scikit-learn       |&#10003;  |&#10003; |         |         |         |         |         |         |
+|statsmodels        |&#10003;  |         |         |         |         |         |         |         |
 |Knime              |          |         |         |&#10003; |         |         |         |         |
 |Power BI           |          |         |&#10003; |         |         |         |         |         |
 |SQLite             |          |         |         |         |         |         |         |&#10003; |
@@ -106,7 +106,7 @@ Consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; 
 Créer un rapport **Power BI** d'au moins 3 pages. Les données sources ont été prétraitées à l'aide de **Power Query**. Il fallait également créer un *blueprint* synthétisant les fontionnalités du rapport ainsi qu'un *mock-up* reprenant le visuel des futures pages en basse définition.
 
 
-## Projet 9 : Produisez une étude de marché avec Python (en cours)
+## [Projet 9 : Produisez une étude de marché avec Python](https://github.com/JadeUnivers/Portfolio-Data-analyst/tree/main/Projet%209%20-%20Produisez%20une%20%C3%A9tude%20de%20march%C3%A9%20avec%20R%20ou%20Python)
 
 ### &#127891; Compétences acquises
 * Effectuer un clustering simple.
@@ -121,6 +121,24 @@ Les données utilisées sont issues des [statistiques de la *Food and Agricultur
 * Réaliser le *clustering* des pays grâce à la classification ascendante hiérarchique (CAH) et à la méthode des k-means puis réaliser une analyse en composantes principales (ACP) dans un second *notebook*.
 
 
-## Projet 10 : Détectez des faux billets avec Python (Non commencer)
+## [Projet 10 : Détectez des faux billets avec Python]
+
+### &#127891; Compétences acquises
+*Réaliser une régression linéaire.
+*Opérer des classifications automatiques pour partitionner les données.
+*Réaliser une analyse prédictive.
+*Réaliser une régression logistique.
+*Réaliser une classification kNN et k-means.
+*Réaliser un arbre de décision et une forêt aléatoire.
+*Valider un modèle avec la validation croisée.
+
+### &#128203; Scénario
+En tant que consultant Data Analyst nous effectuons une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM). Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros.
+
+### &#127919; Objectifs
+*Préparer et analyser les données comprenant les caractéristiques dimensionnelles des billets en fonction de leur authenticité.
+*Explorer différentes solutions pour la mise en place de l'algorithme et retenir le modèle le plus adapté.
+*Tester notre algorithme sur de nouvelles données.
+
 
 
