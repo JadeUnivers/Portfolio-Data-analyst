@@ -124,21 +124,21 @@ Les données utilisées sont issues des [statistiques de la *Food and Agricultur
 ## [Projet 10 : Détectez des faux billets avec Python]
 
 ### &#127891; Compétences acquises
-*Réaliser une régression linéaire.
-*Opérer des classifications automatiques pour partitionner les données.
-*Réaliser une analyse prédictive.
-*Réaliser une régression logistique.
-*Réaliser une classification kNN et k-means.
-*Réaliser un arbre de décision et une forêt aléatoire.
-*Valider un modèle avec la validation croisée.
+* Réaliser une régression linéaire.
+* Opérer des classifications automatiques pour partitionner les données.
+* Réaliser une analyse prédictive.
+* Réaliser une régression logistique.
+* Réaliser une classification kNN et k-means.
+* Réaliser un arbre de décision et une forêt aléatoire.
+* Valider un modèle avec la validation croisée.
 
 ### &#128203; Scénario
 En tant que consultant Data Analyst nous effectuons une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM). Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros.
 
 ### &#127919; Objectifs
-*Préparer et analyser les données comprenant les caractéristiques dimensionnelles des billets en fonction de leur authenticité.
-*Explorer différentes solutions pour la mise en place de l'algorithme et retenir le modèle le plus adapté.
-*Tester notre algorithme sur de nouvelles données.
+* Préparer et analyser les données comprenant les caractéristiques dimensionnelles des billets en fonction de leur authenticité.
+* Explorer différentes solutions pour la mise en place de l'algorithme et retenir le modèle le plus adapté.
+* Tester notre algorithme sur de nouvelles données.
 
 
 
