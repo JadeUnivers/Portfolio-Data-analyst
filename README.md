@@ -121,7 +121,7 @@ Les données utilisées sont issues des [statistiques de la *Food and Agricultur
 * Réaliser le *clustering* des pays grâce à la classification ascendante hiérarchique (CAH) et à la méthode des k-means puis réaliser une analyse en composantes principales (ACP) dans un second *notebook*.
 
 
-## [Projet 10 : Détectez des faux billets avec Python]
+## [Projet 10 : Détectez des faux billets avec Python](https://github.com/JadeUnivers/Portfolio-Data-analyst/tree/main/Projet%2010%20-%20D%C3%A9tectez%20des%20faux%20billets%20avec%20R%20ou%20Python)
 
 ### &#127891; Compétences acquises
 * Réaliser une régression linéaire.
